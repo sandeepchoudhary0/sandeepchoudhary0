@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxuenBvaHV3Z3cyZmd3cGQwaThha3gwNmR2Zm4xNHFycjN4bDJsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepchoudhary0&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepchoudhary0" /> </p>
