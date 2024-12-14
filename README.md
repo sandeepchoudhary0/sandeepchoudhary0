@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif
 )](https://sandeepchoudhary.netlify.app/)
 <h1 align="center">Hi 👋, I'm Sandeep Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate ML Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxuenBvaHV3Z3cyZmd3cGQwaThha3gwNmR2Zm4xNHFycjN4bDJsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
