@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://sandeepchoudhary.netlify.app/](https://sandeepchoudhary.netlify.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://sandeepchoudhary.netlify.app/)
 
 - 💬 Ask me about **Artificial Intelligence , Machine Learning , Deep Learning**
 
