@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sandeep.electron2@gmail.com**
 
-- 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/1c0KxmGXNgDVkD8sFMqvCdsyeCi76Zxmp/view?usp=drive_link](https://drive.google.com/file/d/1dHy2qgFRiaiB3FSF8PGzn-FMs3Zxy2zT/view?usp=drive_link)](https://drive.google.com/file/d/1dHy2qgFRiaiB3FSF8PGzn-FMs3Zxy2zT/view?usp=sharing))
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1c0KxmGXNgDVkD8sFMqvCdsyeCi76Zxmp/view?usp=drive_link](https://drive.google.com/file/d/1dHy2qgFRiaiB3FSF8PGzn-FMs3Zxy2zT/view?usp=drive_link)](https://drive.google.com/file/d/1dHy2qgFRiaiB3FSF8PGzn-FMs3Zxy2zT/view?usp=sharing))
 
 - ⚡ Fun fact **I am Funny**
 
